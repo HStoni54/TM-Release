@@ -1,3 +1,6 @@
-4.1.0.0
+4.1.0.1
 Neuerungen
-1. Version über Github
+1. Bugfix Auslesen Categories
+2. Weniger Datenzugriffe bei Generierung der Selections.db
+3. Aktualisierte SplineListe.xml
+
