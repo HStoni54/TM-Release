@@ -1,6 +1,5 @@
-4.1.0.1
+4.1.0.2
 Neuerungen
-1. Bugfix Auslesen Categories
-2. Weniger Datenzugriffe bei Generierung der Selections.db
-3. Aktualisierte SplineListe.xml
+1. Bugfix keine Anzeige Sonstiges bei Strassenobjekten
+
 
