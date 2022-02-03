@@ -1,5 +1,7 @@
-4.1.0.2
+4.1.0.3
+Version 4.1.0.3
 Neuerungen
-1. Bugfix keine Anzeige Sonstiges bei Strassenobjekten
+1. Bugfix möglicher Absturz des TM bei sehr umfangreichen Anlagen
+2. Neuer Punkt. Prüfung auf doppelt vegebene ImmoIdx
 
 
