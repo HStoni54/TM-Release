@@ -1,6 +1,6 @@
-4.1.0.5
-Version 4.1.0.5
+4.1.0.6
+Version 4.1.0.6
 Neuerungen
-1. Überarbeitung Signaltauschen, Änderung von Signalstellungen bei Kontakzen und Fahrstrassen möglich
+1. Der Bug, dass bei alle Spline tauschen die falschen getauscht wurden, ist behoben
 
 
