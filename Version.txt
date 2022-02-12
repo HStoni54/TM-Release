@@ -1,6 +1,6 @@
-4.1.0.4
-Version 4.1.0.4
+4.1.0.5
+Version 4.1.0.5
 Neuerungen
-1. Der Button "Als Bitmap Speichern" ist jetzt bereits ab einer Bildschirmauflösung von 1600 x 900 sichtbar (Userwunsch)
+1. Überarbeitung Signaltauschen, Änderung von Signalstellungen bei Kontakzen und Fahrstrassen möglich
 
 
