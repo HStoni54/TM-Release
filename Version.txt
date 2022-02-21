@@ -1,9 +1,7 @@
-4.1.1.0
-Version 4.1.1.0
+4.1.1.1
+Version 4.1.1.1
 Neuerungen
-Beginn Mehrsprachlichkeit
+Die gesamte Bedienoberfläche ist mehrsprachig
 Englisch, Französich, Spanisch und Niederländisch stehen zur Auswahl.
-Vorerst nur im Startbildschirm und Hauptmenü.
-Weitere Menüs folgen in späteren Versionen.
 
 
