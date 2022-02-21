@@ -1,7 +1,8 @@
-4.1.1.1
-Version 4.1.1.1
+4.1.1.2
+Version 4.1.1.2
 Neuerungen
 Die gesamte Bedienoberfläche ist mehrsprachig
 Englisch, Französich, Spanisch und Niederländisch stehen zur Auswahl.
+Es fehlten ein paar Dialoge
 
 
