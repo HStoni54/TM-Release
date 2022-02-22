@@ -1,8 +1,8 @@
-4.1.1.2
-Version 4.1.1.2
+4.1.1.3
+Version 4.1.1.3
 Neuerungen
-Die gesamte Bedienoberfläche ist mehrsprachig
-Englisch, Französich, Spanisch und Niederländisch stehen zur Auswahl.
-Es fehlten ein paar Dialoge
+- Verbesserung der Performance beim Aufbau der 
+  Tauschdialoge (TreeView)
+- kleiner Bugfix
 
 
