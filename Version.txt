@@ -1,11 +1,5 @@
-4.1.1.4
-Version 4.1.1.4
+4.1.1.5
+Version 4.1.1.5
 Neuerungen
-1. Fehlerbehebung, für Bug, der unter bestimmten Umständen 
-   zur Fehlermeldung beim Start des Tauschmanagers 
-   und Absturz führen konnte.
-2. Beim Formular "Fehlende Modelle tauschen" wird der Modellname
-   durch einen Klick mit der rechten Maustaste in die
-   Zwischenablage kopiert (Userwunsch).
-3. Korrekturen falschen sprachlicher Begriffe
-
+1. Einführung einer Filterfunktion beim Modelltausch
+2. Diverse Bugfixe
