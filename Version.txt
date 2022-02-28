@@ -1,4 +1,5 @@
-4.1.1.6
-Version 4.1.1.6
+4.1.1.7
+Version 4.1.1.7
 Neuerungen
-1. BugFix für Löschen von Gleisobjekten
+1. Aktualisierung Splineliste und weiterer interner Daten
+2. Beseitigung "Speicherleck" im Transparenten Bild
