@@ -1,5 +1,5 @@
-4.1.1.7
-Version 4.1.1.7
+4.1.2.0
+Version 4.1.2.0
 Neuerungen
-1. Aktualisierung Splineliste und weiterer interner Daten
-2. Beseitigung "Speicherleck" im Transparenten Bild
+1. Neue Funktion "Geländeblock Operationen"
+2. Kleinere Ergänzungen und Fehlerbehebungen
