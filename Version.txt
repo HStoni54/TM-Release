@@ -1,5 +1,5 @@
-4.1.2.0
-Version 4.1.2.0
+4.1.2.1
+Version 4.1.2.1
 Neuerungen
-1. Neue Funktion "Geländeblock Operationen"
-2. Kleinere Ergänzungen und Fehlerbehebungen
+1. Bugfix für Anlagen die vor EEP X erstellt wurde.
+2. Bugfix für Block einfügen, wenn Anlagen unterschiedliche Zoomstufen haben
