@@ -1,5 +1,4 @@
-4.1.2.1
-Version 4.1.2.1
+4.1.2.2
+Version 4.1.2.2
 Neuerungen
-1. Bugfix für Anlagen die vor EEP X erstellt wurde.
-2. Bugfix für Block einfügen, wenn Anlagen unterschiedliche Zoomstufen haben
+1. Behebung doppelte Einträge im Tauschfenster bei unterschiedlicher Groß- und Kleinschreibung
