@@ -1,4 +1,5 @@
-4.1.2.2
-Version 4.1.2.2
+4.1.2.3
+Version 4.1.2.3
 Neuerungen
-1. Behebung doppelte Einträge im Tauschfenster bei unterschiedlicher Groß- und Kleinschreibung
+1. Behebung Fehler mit befahrbarem Rollmaterial
+2. Aktualisierte Splineliste
