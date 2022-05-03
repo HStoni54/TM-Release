@@ -1,5 +1,6 @@
-4.1.2.3
-Version 4.1.2.3
+4.1.2.4
+Version 4.1.2.4
 Neuerungen
-1. Behebung Fehler mit befahrbarem Rollmaterial
-2. Aktualisierte Splineliste
+1. Behebung Bug rechte Maustaste auf Spaltenkopf
+2. Behebung Bug in Gleisobjekte trennen
+3. Hinzufügen Schaltfläche "Einstellungen zurücksetzen" auf Startscreen
