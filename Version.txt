@@ -1,7 +1,5 @@
-4.1.3.1
-Version 4.1.3.1
+4.1.3.2
+Version 4.1.3.2
 Neuerungen
-1. Beseitigung Fehler beim Erkennen installierter EEP-Versionen
-2. Verkleinerung Startbildschirm
-3. Überprüfung auf Update bereits beim Aufrufen Startbildschirm
-4. Vergrößerung Schrift im Startbildschirm und Hauptformular 
+1. Die Anleitung ist jetzt im chm-Format
+2. Innerhalb der Tauschmanagers kann jederzeit über die F1-Taste auf die Anleitung als Hilfe zurückgegriffen werden. 
