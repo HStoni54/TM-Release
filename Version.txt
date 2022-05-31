@@ -1,6 +1,5 @@
-4.1.3.3
-Version 4.1.3.3
+4.1.3.4
+Version 4.1.3.4
 Neuerungen
-1. Im Hauptmenü gibt es einen neuen Menüpunkt Hilfe
-2. Innerhalb der Tauschmanagers kann jederzeit über die F1-Taste auf die Anleitung als Hilfe zurückgegriffen werden. 
-3. Die Hilfe ist auch für die englische Tauschmanagerversion verfügbar
+1. Die Hilfe ist jetzt für alle Sprachversionen verfügber
+2. Aktualisierte Splineliste 
