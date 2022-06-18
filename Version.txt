@@ -1,5 +1,8 @@
-4.1.3.4
-Version 4.1.3.4
+4.1.4.0
+Version 4.1.4.0
 Neuerungen
-1. Die Hilfe ist jetzt für alle Sprachversionen verfügber
-2. Aktualisierte Splineliste 
+1. Vergrößerung der Schrift in vielen Dialogen
+2. Benutzbarkeit des Tauschmanagers bereits ab einer Bildschirmauflösung 1024x768 (4:3) bzw. 1280x720 (16:9) mit allen Funktionen möglich
+3. Im Gleisplan lassen sich die ausgewählten Objekte sperren und entsperren (Userwunsch)
+4. Die leeren Kameras lassen sich löschen (Userwunsch)
+5. Im Inventar werden die Fahrstrassen ausführlicher dargestellt (Userwunsch)
