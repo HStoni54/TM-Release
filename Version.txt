@@ -1,11 +1,4 @@
-4.1.4.2
-Version 4.1.4.2
+4.1.4.3
+Version 4.1.4.3
 Neuerungen
-1. Vergrößerung der Schrift in vielen Dialogen
-2. Benutzbarkeit des Tauschmanagers bereits ab einer Bildschirmauflösung 1024x768 (4:3) bzw. 1280x720 (16:9) mit allen Funktionen möglich
-3. Im Gleisplan lassen sich die ausgewählten Objekte sperren und entsperren (Userwunsch)
-4. Die leeren Kameras lassen sich löschen (Userwunsch)
-5. Im Inventar werden die Fahrstrassen ausführlicher dargestellt (Userwunsch)
-6. Bei "Fehlenden Modellen tauschen" und "Alle Modelle tauschen" Bereichsauswahl möglich
-7. Bugfix Vorschläge bei "Fehlende Modelle tauschen"
-8. Bugfix beim Tauschen
+1. Fahrstrassen lassen sich im Gleisplan einblenden (Userwunsch)
