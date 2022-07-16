@@ -1,4 +1,6 @@
-4.1.4.3
-Version 4.1.4.3
+4.1.5.1
+Version 4.1.5.1
 Neuerungen
-1. Fahrstrassen lassen sich im Gleisplan einblenden (Userwunsch)
+1. Fahrstrassen lassen sich im Gleisplan sichern, löschen und wiederherstellen (Userwunsch)
+2. Beim Block laden lässt sich eine Liste der geänderten IDs speichern (Userwunsch)
+3. kleinere Bugfixe
