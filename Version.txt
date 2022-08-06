@@ -1,6 +1,6 @@
-4.1.5.1
-Version 4.1.5.1
+4.1.5.2
+Version 4.1.5.2
 Neuerungen
-1. Fahrstrassen lassen sich im Gleisplan sichern, löschen und wiederherstellen (Userwunsch)
-2. Beim Block laden lässt sich eine Liste der geänderten IDs speichern (Userwunsch)
-3. kleinere Bugfixe
+1. Anzeige der GleisID bei Signalen und Depots im Inventar
+2. Tabellen im Inventar können in Zwischenablage kopiert werden
+3. "Spline trennen" im Gleisplan erhält 3. Möglichkeit, virtuelle Verbindungen erhalten
