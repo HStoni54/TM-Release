@@ -1,7 +1,5 @@
-4.1.6.0
-Version 4.1.6.0
+4.1.6.2
+Version 4.1.6.2
 Neuerungen
-1. Es können jetzt im Gleisplan mehrere Rechtecke zur Markierung aufgezogen werden
-2. Ab Anlagenformat EEP 16 wurde eine experimentelle Funktion zum Eingeben der Überhöhung von Gleisen implementiert
-3. Bei Bedarf kann die SplineListe.xml in das EEP-Verzeichnis kopiert werden
-4. Diverse Bugfixe
+1. Im Inventar werden die Tabellen erst auf Drücken von Start befüllt (Userwunsch)
+2. Der Tauschmanager kennt jetzt den PolygonalChain (hoffentlich)
