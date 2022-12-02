@@ -1,5 +1,5 @@
-4.1.7.0
-Version 4.1.7.0
+4.1.7.2
+Version 4.1.7.2
 Neuerungen
-1. Bei Geländeblockoperationen lässt sich der Block auch durch Eingabe verschieben wie beim Gleisplan (Userwunsch)
-2. Im Kontextmenü des Gleisplans gibt es eine neue Funktion "Spline duplizieren" (Anwendung siehe Hilfe)
+1. Aktualisierte Splineliste.xml
+2. Mehrere Bugfixe
