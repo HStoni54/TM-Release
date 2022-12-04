@@ -1,5 +1,6 @@
-4.1.8.0
-Version 4.1.8.0
+4.1.8.1
+Version 4.1.8.1
 Neuerungen
 1. RSS-Generator in "Fuhrpark bearbeiten" umbenannt
 2. Im Menüpunkt "Fuhrpark gearbeiten" lassen sich die Sollgeschwindigkeiten der Zugverbände komfortabel ändern
+3. Kleine Korrektur bei Änderung der Geschwindigkeit von Zugverbänden, die vor Signalen warten
