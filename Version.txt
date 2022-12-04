@@ -1,5 +1,4 @@
-4.1.7.2
-Version 4.1.7.2
+4.1.7.3
+Version 4.1.7.3
 Neuerungen
-1. Aktualisierte Splineliste.xml
-2. Mehrere Bugfixe
+1. Fehlerbehebung beim Ändern von Höhen absolut
