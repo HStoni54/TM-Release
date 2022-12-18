@@ -1,7 +1,6 @@
-4.1.8.2
-Version 4.1.8.2
+4.1.9.0
+Version 4.1.9.0
 Neuerungen
-1. RSS-Generator in "Fuhrpark bearbeiten" umbenannt
-2. Im Menüpunkt "Fuhrpark gearbeiten" lassen sich die Sollgeschwindigkeiten der Zugverbände komfortabel ändern
-3. Kleine Korrektur bei Änderung der Geschwindigkeit von Zugverbänden, die vor Signalen warten
-4. Warnmeldung bei Eingabe Sollgeschwindigkeit 0 km/h eingefügt
+1. Diverse Bugfixe
+2. Güter und Omegas (Massen) werden im Gleisplan angezeigt und bei allen Aktionen mit berücksichtigt
+3. Animationen, die sich auf Splinen bewegen werden im Gleisplan wie Rollmaterial behandelt
