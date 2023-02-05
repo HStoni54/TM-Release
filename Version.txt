@@ -1,7 +1,6 @@
-4.1.10.0
-Version 4.1.10.0
+4.1.11.0
+Version 4.1.11.0
 Neuerungen
-1. Im Inventar gibt es ein Filter und die Z-Koordinaten werden dargestellt (Userwunsch)
-2. Der Tauschmanager kann verwaiste Konzakte finden und löschen
-3. Im Gleisplan lassen sich Kontakte löschen
-4. Diverse Bugfixe
+1. Kameras wurden ins Inventar aufgenommen
+2. Kameras lassen sich im Gleisplan anzeigen
+3. Der Punkt "Leere Kameras löschen" wurde geändert in "Leere Kameras zurücksetzen" 
