@@ -1,4 +1,6 @@
-4.1.13.0
-Version 4.1.13.0
+4.1.14.0
+Version 4.1.14.0
 Neuerungen
-1. Ein Fahrstrassen-Editor wurde implementiert
+1. Mehr Modelle im der Eigenschaftsanzeige im Gleisplan
+2. Möglichkeit nicht vorhandene Bodentexturen aus der DDS-Datei zu extrahieren
+3. Neue Pfim.dll-Version
