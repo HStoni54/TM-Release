@@ -1,6 +1,5 @@
-4.1.14.0
-Version 4.1.14.0
+4.1.14.18
+Version 4.1.14.18
 Neuerungen
-1. Mehr Modelle im der Eigenschaftsanzeige im Gleisplan
-2. Möglichkeit nicht vorhandene Bodentexturen aus der DDS-Datei zu extrahieren
-3. Neue Pfim.dll-Version
+1. Bugfix zum Texturextrahieren
+2. Extrahieren erst ab EEP 15
