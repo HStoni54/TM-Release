@@ -1,5 +1,6 @@
-4.1.14.18
-Version 4.1.14.18
+4.1.15.0
+Version 4.1.15.0
 Neuerungen
-1. Bugfix zum Texturextrahieren
-2. Extrahieren erst ab EEP 15
+1. Bug mit befahrbarem Rollmaterial behoben
+2. Zahleneingabe: Dezimalstelle auch als Punkt möglich
+3. Überarbeitung der niederländischen Lokalisation
