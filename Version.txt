@@ -1,6 +1,4 @@
-4.1.15.0
-Version 4.1.15.0
+4.1.15.63
+Version 4.1.15.63
 Neuerungen
-1. Bug mit befahrbarem Rollmaterial behoben
-2. Zahleneingabe: Dezimalstelle auch als Punkt möglich
-3. Überarbeitung der niederländischen Lokalisation
+1. Bug beim Laden von Blöcken behoben
