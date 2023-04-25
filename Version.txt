@@ -1,4 +1,5 @@
-4.1.15.63
-Version 4.1.15.63
+4.1.15.267
+Version 4.1.15.267
 Neuerungen
-1. Bug beim Laden von Blöcken behoben
+1. Bug beim Gleisplanladen in seltenen Fällen behoben
+2. Workaround für Signale, bei denen zwischen Vor- und Hauptsignal eine Weiche liegt
