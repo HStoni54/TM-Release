@@ -1,5 +1,4 @@
-4.1.15.267
-Version 4.1.15.267
+4.1.16.0
+Version 4.1.16.0
 Neuerungen
-1. Bug beim Gleisplanladen in seltenen Fällen behoben
-2. Workaround für Signale, bei denen zwischen Vor- und Hauptsignal eine Weiche liegt
+1. Menüpunkt zum Bearbeiten virtueller Depots implementiert
