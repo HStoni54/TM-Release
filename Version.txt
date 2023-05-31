@@ -1,5 +1,4 @@
-4.1.16.2
-Version 4.1.16.2
+4.1.17.0
+Version 4.1.17.0
 Neuerungen
-1. Menüpunkt zum Bearbeiten virtueller Depots implementiert
-2. Bugfix zum virtuellen depot
+1. Die Zugverbände aus dem Depot lassen sich speichern und hinzufügen
