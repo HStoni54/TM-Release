@@ -1,11 +1,6 @@
-4.2.0.0
-Version 4.2.0.0
+4.2.1.0
+Version 4.2.1.0
 Neuerungen
-1. Anpassung der Oberflächen an skalierte hochauflösende Bildschirme
-2. Neuer Menüpunkt Rasterdichte ändern mit Auswahl der Interpolationsmethode für Höhen
-3. Neuer Menüpunkt Default-Spline in EEP ändern
-4. Neuer Menüpunkt EEP-Blöcke LEs und Immos Skalierung zurücksetzen
-5. Anlage verkleinern jetzt auch manuelle Eingabe möglich
-6. Optimierung zur Verbesserung der Performance bei großen Anlagen
-7. "Wiedereinführung" der animierten Wartemeldungen
-8. Verschönerung des Hauptmenüs
+1. Neue Funktion zum automatischen Erstellen von Fahrstrassen
+2. Bei Kontakten für Kameras wird jetzt auch die entsprechende Kamera angezeigt
+3. Bei der Suche nach verwaisten Kontakten werden jetzt auch Kamerakontakte gefunden, die auf eine "Leer"-Kamera zeigen
