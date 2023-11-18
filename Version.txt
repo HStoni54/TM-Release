@@ -1,6 +1,5 @@
-4.2.1.0
-Version 4.2.1.0
+4.2.2.2
+Version 4.2.2.2
 Neuerungen
-1. Neue Funktion zum automatischen Erstellen von Fahrstrassen
-2. Bei Kontakten für Kameras wird jetzt auch die entsprechende Kamera angezeigt
-3. Bei der Suche nach verwaisten Kontakten werden jetzt auch Kamerakontakte gefunden, die auf eine "Leer"-Kamera zeigen
+1. Neue Funktion zum Bearbeiten von Gleisbildstellpulten
+2. Bugfix zum Speichern GBS
