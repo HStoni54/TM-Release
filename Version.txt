@@ -1,4 +1,4 @@
-4.2.2.11
-Version 4.2.2.11
+4.2.2.14
+Version 4.2.2.14
 Neuerungen
-1 Bugfix GBS
+1 Bugfix Darstellung GBS
