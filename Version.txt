@@ -1,5 +1,4 @@
-4.2.2.2
-Version 4.2.2.2
+4.2.2.11
+Version 4.2.2.11
 Neuerungen
-1. Neue Funktion zum Bearbeiten von Gleisbildstellpulten
-2. Bugfix zum Speichern GBS
+1 Bugfix GBS
