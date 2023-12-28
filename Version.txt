@@ -1,4 +1,5 @@
-4.2.2.14
-Version 4.2.2.14
+4.2.2.25
+Version 4.2.2.25
 Neuerungen
-1 Bugfix Darstellung GBS
+1 Bugfix Fahrstrassen erstellen
+2 Bugfix GBS-Editor
