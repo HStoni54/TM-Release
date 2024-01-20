@@ -1,6 +1,7 @@
-4.3.0.0
-Version 4.3.0.0
+4.3.0.2
+Version 4.3.0.2
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
 3 Mehrere Bugfixe
+4 Bugfix Skalierung
