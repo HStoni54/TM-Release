@@ -1,5 +1,6 @@
-4.2.2.25
-Version 4.2.2.25
+4.3.0.0
+Version 4.3.0.0
 Neuerungen
-1 Bugfix Fahrstrassen erstellen
-2 Bugfix GBS-Editor
+1 Höhengenerator hinzugefügt
+2 Mehrere Userwünsche erfüllt
+3 Mehrere Bugfixe
