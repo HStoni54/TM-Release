@@ -1,7 +1,8 @@
-4.3.0.2
-Version 4.3.0.2
+4.3.0.6
+Version 4.3.0.6
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
 3 Mehrere Bugfixe
 4 Bugfix Skalierung
+5 Bugfix GBS-Editor (Tausch Strassen Strassenbahn)
