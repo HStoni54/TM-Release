@@ -1,8 +1,9 @@
-4.3.0.6
-Version 4.3.0.6
+4.3.0.11
+Version 4.3.0.11
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
 3 Mehrere Bugfixe
 4 Bugfix Skalierung
 5 Bugfix GBS-Editor (Tausch Strassen Strassenbahn)
+6 Bugfix Baumanzeige in Tauschmenüs
