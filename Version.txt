@@ -1,5 +1,5 @@
-4.3.0.15
-Version 4.3.0.15
+4.3.0.28
+Version 4.3.0.28
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
@@ -8,3 +8,4 @@ Neuerungen
 5 Bugfix GBS-Editor (Tausch Strassen Strassenbahn)
 6 Bugfix Baumanzeige in Tauschmenüs
 7 Änderung beim Auslesen des Fahrplanes
+8 Licht an/aus in Inventar hinzugefügt
