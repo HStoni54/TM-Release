@@ -1,5 +1,5 @@
-4.3.0.28
-Version 4.3.0.28
+4.3.0.37
+Version 4.3.0.37
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
@@ -9,3 +9,4 @@ Neuerungen
 6 Bugfix Baumanzeige in Tauschmenüs
 7 Änderung beim Auslesen des Fahrplanes
 8 Licht an/aus in Inventar hinzugefügt
+9 Korrektur Weichenzuordnung bei Kontakten im Inventar
