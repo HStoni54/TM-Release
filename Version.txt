@@ -1,5 +1,5 @@
-4.3.0.41
-Version 4.3.0.41
+4.3.0.54
+Version 4.3.0.54
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
@@ -11,3 +11,5 @@ Neuerungen
 8 Licht an/aus in Inventar hinzugefügt
 9 Korrektur Weichenzuordnung bei Kontakten im Inventar
 10 Bugfix Zählersignale GBS
+11 Block an Originalposition einfügen
+12 Bugfix GBS zentrieren
