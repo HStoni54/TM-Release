@@ -1,5 +1,5 @@
-4.3.0.54
-Version 4.3.0.54
+4.3.0.61
+Version 4.3.0.61
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
@@ -13,3 +13,4 @@ Neuerungen
 10 Bugfix Zählersignale GBS
 11 Block an Originalposition einfügen
 12 Bugfix GBS zentrieren
+13 Wartungsupdate Fahrstrassen
