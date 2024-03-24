@@ -1,5 +1,5 @@
-4.3.0.65
-Version 4.3.0.65
+4.3.0.68
+Version 4.3.0.68
 Neuerungen
 1 Höhengenerator hinzugefügt
 2 Mehrere Userwünsche erfüllt
@@ -16,3 +16,4 @@ Neuerungen
 13 Wartungsupdate Fahrstrassen
 14 Erste Zeile/Spalte im GBS einfügen/löschen
 15 Im Fahrplan werden alle Zeilen gespeichert
+16 Speichern GBS ohne Namen
