@@ -1,19 +1,4 @@
-4.3.0.68
-Version 4.3.0.68
+4.3.0.71
+Version 4.3.0.71
 Neuerungen
-1 Höhengenerator hinzugefügt
-2 Mehrere Userwünsche erfüllt
-3 Mehrere Bugfixe
-4 Bugfix Skalierung
-5 Bugfix GBS-Editor (Tausch Strassen Strassenbahn)
-6 Bugfix Baumanzeige in Tauschmenüs
-7 Änderung beim Auslesen des Fahrplanes
-8 Licht an/aus in Inventar hinzugefügt
-9 Korrektur Weichenzuordnung bei Kontakten im Inventar
-10 Bugfix Zählersignale GBS
-11 Block an Originalposition einfügen
-12 Bugfix GBS zentrieren
-13 Wartungsupdate Fahrstrassen
-14 Erste Zeile/Spalte im GBS einfügen/löschen
-15 Im Fahrplan werden alle Zeilen gespeichert
-16 Speichern GBS ohne Namen
+1 Bug Veränderung Signale im GBS behoben
