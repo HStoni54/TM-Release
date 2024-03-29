@@ -1,4 +1,4 @@
-4.3.0.72
-Version 4.3.0.72
+4.3.0.73
+Version 4.3.0.73
 Neuerungen
-1 Bug Absturz bei Depotanzeige
+1 Bug bei Mehrfachbelegung GBS-Kacheln
