@@ -1,4 +1,5 @@
-4.3.0.73
-Version 4.3.0.73
+4.3.0.78
+Version 4.3.0.78
 Neuerungen
 1 Bug bei Mehrfachbelegung GBS-Kacheln
+2 Bereinigung doppelt belegter und leerer GBS-Kacheln
