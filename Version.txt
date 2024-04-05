@@ -1,5 +1,4 @@
-4.3.0.78
-Version 4.3.0.78
+4.3.0.79
+Version 4.3.0.79
 Neuerungen
-1 Bug bei Mehrfachbelegung GBS-Kacheln
-2 Bereinigung doppelt belegter und leerer GBS-Kacheln
+1 Bestimmte Signale im GBS konnten nicht zugewiesen werden
