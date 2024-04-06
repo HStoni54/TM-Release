@@ -1,4 +1,4 @@
-4.3.0.79
-Version 4.3.0.79
+4.3.0.80
+Version 4.3.0.80
 Neuerungen
-1 Bestimmte Signale im GBS konnten nicht zugewiesen werden
+1 Bestimmte Signale im GBS konnten nicht zugewiesen werden (nochmal korrigiert)
