@@ -1,4 +1,13 @@
-4.3.0.80
-Version 4.3.0.80
+4.4.0.0
+Version 4.4.0.0
 Neuerungen
-1 Bestimmte Signale im GBS konnten nicht zugewiesen werden (nochmal korrigiert)
+1. Gleisplan überarbeitet, höhere Zoomstufen, bessere Performance, Änderungen bei Beschriftung
+2. Tauschen von Anfang und Ende von Splines
+3. Bei einzelnen Splines Anzeige der Fahrstrassen in denen der Spline vorhanden ist
+4. Auswahl von Modellen im Gleisplan über Kategorien
+5. Selbstdefinierte Kategorien in Tauschauswahl angeboten
+6. Sichern/Wiederherstellen selbstdefinierter Kategorien
+7. Anpassungen an EEP 17 Update 3 und Plugin 3
+8. Anpassungen bei Bildschirmskalierungen
+9. Weitere kleinere Anpassungen
+10. Diverse Bugfixe
