@@ -1,4 +1,4 @@
-4.4.0.1
-Version 4.4.0.1
+4.4.0.2
+Version 4.4.0.2
 Neuerungen
-1. Temporärer Bugfix für Fehler bei Tauschauswahl
+1. Bugfix für Fehler bei Tauschauswahl (Selbstdefinierte Kategorien)
