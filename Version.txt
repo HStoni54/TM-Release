@@ -1,9 +1,9 @@
-4.4.1.0
-Version 4.4.1.0
+4.5.0.0
+Version 4.5.0.0
 Neuerungen
 1. Diverse Bugfixe
-2. Massstabanzeige im Gleisplan
-3. Umschaltung einspurige/zweispurige Splines im Gleisplan
-4. Umbenennung Spline-ID in Gleis-ID im Gleisplan
-5. Höhengenerator kann auch mit Online GoogleEarth-Dateien umgehen
-6. Deutlicher Hinweis auf mögliche Hilfeanforderung im Tauschmanager
+2. Modelle filtern im Menü alle Modelle tauschen (Userwunsch)
+3. Mobile Kameras werden im Inventar und Gleisplan angezeigt (Userwunsch)
+4. Löschen von alten GBS-Signalen unter Fehlerkorrektur
+5. Auslesen und anzeigen der EEP-Version aus Anlagendateien (Userwunsch)
+6. Einbau eines Bodenplattengenerators
