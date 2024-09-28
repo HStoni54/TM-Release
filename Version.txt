@@ -1,4 +1,4 @@
-4.5.1.0
-Version 4.5.1.0
+4.5.1.1
+Version 4.5.1.1
 Neuerungen
-1. Bodenplattengenerator ertüchtigt für nicht unbedingt empfohlene größere Plattenanzahl
+1. Bugfix Filterfunktion alle Modelle
