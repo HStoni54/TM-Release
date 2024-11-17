@@ -1,5 +1,5 @@
-4.5.2.0
-Version 4.5.2.0
+4.5.2.1
+Version 4.5.2.1
 Neuerungen
 1. Diverse Bugfixe
 2. Verknüpfung Höhengenerator und Bodenplattengenerator
