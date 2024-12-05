@@ -1,10 +1,4 @@
-4.5.2.1
-Version 4.5.2.1
+4.5.2.117
+Version 4.5.2.117
 Neuerungen
 1. Diverse Bugfixe
-2. Verknüpfung Höhengenerator und Bodenplattengenerator
-3. Markierung vergebener Splines im GBS-Editor
-4. Schriftgröße im Gleisplan moit Kommastellen
-5. Rollmaterial und Animationen werden im Gleisplan angezeigt
-6. Kameras speichen und wiederherstellen
-7. Diverse kleinere Änderungen an verschiedenen Menüpunkten
