@@ -1,6 +1,7 @@
-4.5.3.0
-Version 4.5.3.0
+4.5.3.1
+Version 4.5.3.1
 Neuerungen
 1. Diverse Bugfixe
 2. Änderung Darstellung Alle Modelle tauschen
 3. Kennzeichnung "View-Only"-Modelle in den Tauschmenüs
+4. Bugfix hinterher
