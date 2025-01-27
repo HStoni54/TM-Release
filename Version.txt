@@ -1,8 +1,9 @@
-4.5.3.3
-Version 4.5.3.3
+4.5.3.4
+Version 4.5.3.4
 Neuerungen
 1. Diverse Bugfixe
 2. Änderung Darstellung Alle Modelle tauschen
 3. Kennzeichnung "View-Only"-Modelle in den Tauschmenüs
 4. Bugfix hinterher
 5. Bug beim Block speichern und löschen beseitigt
+6. Bug Rollmaterial tauschen behoben
