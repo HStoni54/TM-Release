@@ -1,5 +1,5 @@
-4.5.3.4
-Version 4.5.3.4
+4.5.3.5
+Version 4.5.3.5
 Neuerungen
 1. Diverse Bugfixe
 2. Änderung Darstellung Alle Modelle tauschen
@@ -7,3 +7,4 @@ Neuerungen
 4. Bugfix hinterher
 5. Bug beim Block speichern und löschen beseitigt
 6. Bug Rollmaterial tauschen behoben
+7. Bug Alle Splines tauschen behoben (Splines ohne Namen)
