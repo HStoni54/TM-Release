@@ -1,5 +1,5 @@
-4.5.3.6
-Version 4.5.3.6
+4.5.3.7
+Version 4.5.3.7
 Neuerungen
 1. Diverse Bugfixe
 2. Änderung Darstellung Alle Modelle tauschen
@@ -8,3 +8,4 @@ Neuerungen
 5. Bug beim Block speichern und löschen beseitigt
 6. Bug Rollmaterial tauschen behoben
 7. Bug Alle Splines tauschen behoben (Splines ohne Namen)
+8. Bug bei bestimmten Anlagen konnte der Gleisplan nicht angezeigt werden
