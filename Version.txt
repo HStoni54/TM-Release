@@ -1,8 +1,9 @@
-4.5.4.0
-Version 4.5.4.0
+4.5.4.1
+Version 4.5.4.1
 Neuerungen
 1. Diverse Bugfixe
 2. Einbau von Filtermöglichkeiten in weiteren Tauschdialogen
 3. Neuer Menüpunkt Tag-Texte anzeigen
 4. Höhengenerator nach Sonstiges verschoben
 5. Menüs sollten jetzt immer im Vordergrund erscheinen
+6. Fehlermeldungen bei nich sauber deinstallierten EEP-Versionen ausgeblendet 
