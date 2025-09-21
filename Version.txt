@@ -1,10 +1,8 @@
-4.5.6.0
-Version 4.5.6.0
+4.5.7.0
+Version 4.5.7.0
 Neuerungen
 1. Diverse Bugfixe
-2. Nothilfe bei Deinstallationsproblemen von EEP
-3. Lichtschalter auch für Beleuchtung
-4. Einbau der Funktionalität des EEP_ModelDB_Tool
-5. Setzen und aufheben der Markierung veralteter Modelle
-6. SplineListe wird bei neuer Version aktualisiert und nicht überschrieben
-7. Anpassung der Sortierung in einzelnen Tabellen
+2. Im Menü Modelle als alt markieren werden auch Bilder angezeigt (Userwunsch)
+3. Neuer Menüpunkt Ressourcenübernahme
+4. Designveränderungen in Tauschmenüs (Formulare in der Größe änderbar, Spalten der Tabellen lassen sich in der Breite ändern)
+5. Erweiterungen im Hintergrund für zukünftige Änderungen
