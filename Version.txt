@@ -1,8 +1,9 @@
-4.5.7.0
-Version 4.5.7.0
+4.5.7.1
+Version 4.5.7.1
 Neuerungen
 1. Diverse Bugfixe
 2. Im Menü Modelle als alt markieren werden auch Bilder angezeigt (Userwunsch)
 3. Neuer Menüpunkt Ressourcenübernahme
 4. Designveränderungen in Tauschmenüs (Formulare in der Größe änderbar, Spalten der Tabellen lassen sich in der Breite ändern)
 5. Erweiterungen im Hintergrund für zukünftige Änderungen
+6. Bugfix im Modul Modelle einsortieren
