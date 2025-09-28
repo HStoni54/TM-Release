@@ -1,5 +1,5 @@
-4.5.7.1
-Version 4.5.7.1
+4.5.7.2
+Version 4.5.7.2
 Neuerungen
 1. Diverse Bugfixe
 2. Im Menü Modelle als alt markieren werden auch Bilder angezeigt (Userwunsch)
@@ -7,3 +7,4 @@ Neuerungen
 4. Designveränderungen in Tauschmenüs (Formulare in der Größe änderbar, Spalten der Tabellen lassen sich in der Breite ändern)
 5. Erweiterungen im Hintergrund für zukünftige Änderungen
 6. Bugfix im Modul Modelle einsortieren
+7. Bugfix in den Modulen Höhe ändern
