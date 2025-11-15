@@ -1,10 +1,8 @@
-4.5.7.2
-Version 4.5.7.2
+4.5.8.0
+Version 4.5.8.0
 Neuerungen
 1. Diverse Bugfixe
-2. Im Menü Modelle als alt markieren werden auch Bilder angezeigt (Userwunsch)
-3. Neuer Menüpunkt Ressourcenübernahme
-4. Designveränderungen in Tauschmenüs (Formulare in der Größe änderbar, Spalten der Tabellen lassen sich in der Breite ändern)
-5. Erweiterungen im Hintergrund für zukünftige Änderungen
-6. Bugfix im Modul Modelle einsortieren
-7. Bugfix in den Modulen Höhe ändern
+2. Angezeigte Bilder aus dem Modellkatalog lassen sich durch einen Klick vergrößern (Userwunsch)
+3. Im Menü Modelle als alt markieren erfolgt die Auswahl über Checkboxen (Userwunsch)
+4. Die Fahrstraßen lassen sich jetzt auch bei den Zielsignalen sichern/Wiederherstellen (Userwunsch)
+5. Splines die über keinen Stil verfügen können auf den Stil Unsichbar gesetzt werden (Umsetzung eines Userwunsches) 
