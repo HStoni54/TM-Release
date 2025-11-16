@@ -1,5 +1,5 @@
-4.5.8.1
-Version 4.5.8.1
+4.5.8.2
+Version 4.5.8.2
 Neuerungen
 1. Diverse Bugfixe
 2. Angezeigte Bilder aus dem Modellkatalog lassen sich durch einen Klick vergrößern (Userwunsch)
@@ -7,3 +7,4 @@ Neuerungen
 4. Die Fahrstraßen lassen sich jetzt auch bei den Zielsignalen sichern/Wiederherstellen (Userwunsch)
 5. Splines die über keinen Stil verfügen können auf den Stil Unsichbar gesetzt werden (Umsetzung eines Userwunsches) 
 6. Bug in Blockfunktionen behoben (Fahrstrassenzustand wurde falsch gespeichert)
+7. Checkboxen im Menü zum Kennzeichnen alter Modelle wurden nicht korrekt gezählt
