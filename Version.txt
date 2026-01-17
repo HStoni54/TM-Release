@@ -1,5 +1,5 @@
-4.5.9.0
-Version 4.5.9.0
+4.5.9.1
+Version 4.5.9.1
 Neuerungen
 1. Diverse Bugfixe
 2. Neuer Menüpunkt Züge bearbeiten
@@ -7,3 +7,4 @@ Neuerungen
 4. Zu kurze Splines können in der Fehlersuche gefunden werden
 5. Im GBS-Editor Feld für nur Tipptext ergänzt
 6. Der Tauschmanager kann bei EEP-Anlagen von Versionen vor EEP 7 bei der Umstellung auf EEP 7 und höher helfen
+7. Bugfix Anzeige im Inventar
