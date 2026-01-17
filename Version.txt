@@ -1,13 +1,9 @@
-4.5.8.5
-Version 4.5.8.5
+4.5.9.0
+Version 4.5.9.0
 Neuerungen
 1. Diverse Bugfixe
-2. Angezeigte Bilder aus dem Modellkatalog lassen sich durch einen Klick vergrößern (Userwunsch)
-3. Im Menü Modelle als alt markieren erfolgt die Auswahl über Checkboxen (Userwunsch)
-4. Die Fahrstraßen lassen sich jetzt auch bei den Zielsignalen sichern/Wiederherstellen (Userwunsch)
-5. Splines die über keinen Stil verfügen können auf den Stil Unsichbar gesetzt werden (Umsetzung eines Userwunsches) 
-6. Bug in Blockfunktionen behoben (Fahrstrassenzustand wurde falsch gespeichert)
-7. Checkboxen im Menü zum Kennzeichnen alter Modelle wurden nicht korrekt gezählt
-8. Zeilenumbrüche und Tabulatoren werden in Aufschriften korrekt übernommen
-9. Bugfix wenn die Tags mit Attributen sehr lang werden (Depot mit vielen Einträgen)
-10. Bugfix im Bereich Höhenänderungen
+2. Neuer Menüpunkt Züge bearbeiten
+3. Im Inventar werden bei Kontakten auch Routen angezeigt (Userwunsch)
+4. Zu kurze Splines können in der Fehlersuche gefunden werden
+5. Im GBS-Editor Feld für nur Tipptext ergänzt
+6. Der Tauschmanager kann bei EEP-Anlagen von Versionen vor EEP 7 bei der Umstellung auf EEP 7 und höher helfen
