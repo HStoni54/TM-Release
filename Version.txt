@@ -1,5 +1,5 @@
-4.5.9.2
-Version 4.5.9.2
+4.5.9.3
+Version 4.5.9.3
 Neuerungen
 1. Diverse Bugfixe
 2. Neuer Menüpunkt Züge bearbeiten (merkt sich jetzt auch den Dateinamen)
@@ -8,3 +8,4 @@ Neuerungen
 5. Im GBS-Editor Feld für nur Tipptext ergänzt
 6. Der Tauschmanager kann bei EEP-Anlagen von Versionen vor EEP 7 bei der Umstellung auf EEP 7 und höher helfen
 7. Bugfix Anzeige im Inventar
+8. Bugfix im Modul "Gleisstil/Layer ändern" des Gleisplans
