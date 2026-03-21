@@ -1,11 +1,11 @@
-4.5.9.3
-Version 4.5.9.3
+4.5.10.0
+Version 4.5.10.0
 Neuerungen
 1. Diverse Bugfixe
-2. Neuer Menüpunkt Züge bearbeiten (merkt sich jetzt auch den Dateinamen)
-3. Im Inventar werden bei Kontakten auch Routen angezeigt (Userwunsch)
-4. Zu kurze Splines können in der Fehlersuche gefunden werden
-5. Im GBS-Editor Feld für nur Tipptext ergänzt
-6. Der Tauschmanager kann bei EEP-Anlagen von Versionen vor EEP 7 bei der Umstellung auf EEP 7 und höher helfen
-7. Bugfix Anzeige im Inventar
-8. Bugfix im Modul "Gleisstil/Layer ändern" des Gleisplans
+2. Erweiterte Filter bei vielen Tauschdialogen
+3. Neue Schaltfläche "Modelliste inn Zwischenablage" in den Formularen "Fehlende Modelle tauschen" und "Alle Modelle tauschen"
+4. Neuer Menüpunkt zum ermitteln von fehlenden Modellen in EEP-Blöcken
+5. Der Dialog zum Aus- und Abwählen von Modellen enthält einen erweiterten Filter und eine Modellansicht
+6. Möglichkeit der Mitnahme von Routen beim Kopieren von Zügen aus einem Depot in ein Depot einer anderen Anlage (Userwunsch)
+7. Beim Kopieren oder Spiegeln eines Blocks werden beim Kopieren von Rollmaterialien die Einträge betroffener Kontakte mit geändert (Userwunsch)
+
