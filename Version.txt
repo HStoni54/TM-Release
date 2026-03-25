@@ -1,5 +1,5 @@
-4.5.10.1
-Version 4.5.10.1
+4.5.10.2
+Version 4.5.10.2
 Neuerungen
 1. Diverse Bugfixe
 2. Erweiterte Filter bei vielen Tauschdialogen
@@ -9,3 +9,4 @@ Neuerungen
 6. Möglichkeit der Mitnahme von Routen beim Kopieren von Zügen aus einem Depot in ein Depot einer anderen Anlage (Userwunsch)
 7. Beim Kopieren oder Spiegeln eines Blocks werden beim Kopieren von Rollmaterialien die Einträge betroffener Kontakte mit geändert (Userwunsch)
 8. Bugfix für Funktion Rasterdichte ändern
+9. Bugfix Filter
