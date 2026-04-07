@@ -1,5 +1,5 @@
-4.5.10.3
-Version 4.5.10.3
+4.5.10.4
+Version 4.5.10.4
 Neuerungen
 1. Diverse Bugfixe
 2. Erweiterte Filter bei vielen Tauschdialogen
@@ -10,4 +10,5 @@ Neuerungen
 7. Beim Kopieren oder Spiegeln eines Blocks werden beim Kopieren von Rollmaterialien die Einträge betroffener Kontakte mit geändert (Userwunsch)
 8. Bugfix für Funktion Rasterdichte ändern
 9. Bugfix Filter
-10. Userwunsch als Osterei
+10. Endgleise in normale Gleise umwandeln
+11. Bugfix Block mit Steuerstrecken erstellen
