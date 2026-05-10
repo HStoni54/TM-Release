@@ -1,14 +1,9 @@
-4.5.10.4
-Version 4.5.10.4
+4.5.11.0
+Version 4.5.11.0
 Neuerungen
 1. Diverse Bugfixe
-2. Erweiterte Filter bei vielen Tauschdialogen
-3. Neue Schaltfläche "Modelliste inn Zwischenablage" in den Formularen "Fehlende Modelle tauschen" und "Alle Modelle tauschen"
-4. Neuer Menüpunkt zum ermitteln von fehlenden Modellen in EEP-Blöcken
-5. Der Dialog zum Aus- und Abwählen von Modellen enthält einen erweiterten Filter und eine Modellansicht
-6. Möglichkeit der Mitnahme von Routen beim Kopieren von Zügen aus einem Depot in ein Depot einer anderen Anlage (Userwunsch)
-7. Beim Kopieren oder Spiegeln eines Blocks werden beim Kopieren von Rollmaterialien die Einträge betroffener Kontakte mit geändert (Userwunsch)
-8. Bugfix für Funktion Rasterdichte ändern
-9. Bugfix Filter
-10. Endgleise in normale Gleise umwandeln
-11. Bugfix Block mit Steuerstrecken erstellen
+2. Endgleise in normale Gleise umwandeln
+3. Oberleitung für Spline
+4. Ermittlung Shopset/Preis für fehlende Modelle
+5. Editieren von Tag-Text im Gleisplan
+6. Kurzanweisung für Gleisplan-Bedienung
