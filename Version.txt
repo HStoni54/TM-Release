@@ -1,5 +1,5 @@
-4.5.11.0
-Version 4.5.11.0
+4.5.11.1
+Version 4.5.11.1
 Neuerungen
 1. Diverse Bugfixe
 2. Endgleise in normale Gleise umwandeln
@@ -7,3 +7,4 @@ Neuerungen
 4. Ermittlung Shopset/Preis für fehlende Modelle
 5. Editieren von Tag-Text im Gleisplan
 6. Kurzanweisung für Gleisplan-Bedienung
+7. Bug im Depoteditor behoben
