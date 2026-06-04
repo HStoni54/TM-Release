@@ -1,5 +1,5 @@
-4.5.11.1
-Version 4.5.11.1
+4.5.11.2
+Version 4.5.11.2
 Neuerungen
 1. Diverse Bugfixe
 2. Endgleise in normale Gleise umwandeln
