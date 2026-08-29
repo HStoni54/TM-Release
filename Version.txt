@@ -1,8 +1,4 @@
-4.5.12.1
-Version 4.5.12.1
+4.6.0.0
+Version 4.6.0.0
 Neuerungen
-1. Gleisplan drucken
-2. Landschaftselemente/Immobilien skalieren (Userwunsch)
-3. Weichen Laternen versenken, Sound abschalten
-4. Anpassung an EEP 18 Plugin2
-5. Kleiner Bugfix in Verbindung mit EEP 18 Plugin2
+1. Neuer Menüpunkt Bulk-Installer
