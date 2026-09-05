@@ -1,4 +1,6 @@
-4.6.0.0
-Version 4.6.0.0
+4.6.0.1
+Version 4.6.0.1
 Neuerungen
 1. Neuer Menüpunkt Bulk-Installer
+2. Anzeige Vorsignalabstand im Gleisplan
+3. Bugfixe und Programm- und Datenupdates
