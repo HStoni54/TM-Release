@@ -1,9 +1,5 @@
-4.6.0.5
-Version 4.6.0.5
+4.6.1.0
+Version 4.6.1.0
 Neuerungen
-1. Neuer Menüpunkt Bulk-Installer
-2. Anzeige Vorsignalabstand im Gleisplan
-3. Bugfixe und Programm- und Datenupdates
-4. Fehlerhafter Text in der Gleisplanhilfe
-5. Falsches Symbol im GBS-Editor
-6. Bugfix kml-Dateien lesen
+1. Neuer Menüpunkt Modellscanner
+2. Bugfixe und Programm- und Datenupdates
