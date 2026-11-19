@@ -1,6 +1,7 @@
-4.6.1.1
-Version 4.6.1.1
+4.6.1.2
+Version 4.6.1.2
 Neuerungen
 1. Neuer Menüpunkt Modellscanner
 2. Bugfixe und Programm- und Datenupdates
 3. Bugfix Modellscanner
+4. Performance Modellscanner verbessert
