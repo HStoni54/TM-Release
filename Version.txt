@@ -1,7 +1,8 @@
-4.6.1.2
-Version 4.6.1.2
+4.6.1.3
+Version 4.6.1.3
 Neuerungen
 1. Neuer Menüpunkt Modellscanner
 2. Bugfixe und Programm- und Datenupdates
 3. Bugfix Modellscanner
 4. Performance Modellscanner verbessert
+5. Absturz Modellscanner wenn Ordner Resourcen.unp nicht existiert beseitigt
